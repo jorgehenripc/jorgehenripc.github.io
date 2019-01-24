@@ -15,8 +15,8 @@ body {
 }
 
 h1 {
-    font-size: 1.8rem  /*(rem is a unit of measure) */;
-    color: blueviolet;
+    font-size: 2.8rem  /*(rem is a unit of measure) */;
+    color: whitesmoke;
 }
 
 h2 {
@@ -38,11 +38,11 @@ header, footer, footer a {
 }
 
 header img {
-    width: 200px;
+    width: 150px;
     height: auto;
     float: right;
 }
 
 footer {
-    font-size: 14px;
+    font-size: 10px;
 }
