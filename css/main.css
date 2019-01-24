@@ -2,17 +2,20 @@
 /* You may use #HEX or color names */
 
 /* * is a wildcard referring to all elements. */
-*  { margin: 0; box-sizing: border-box; }
+*  { 
+    margin: 0; 
+    box-sizing: border-box; 
+}
 
 body {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 32px;
     font-family: Ubuntu, sans-serif;
     color: black;
 }
 
 h1 {
-    font-size: .5rem  /*(rem is a unit of measure) */;
+    font-size: .8rem  /*(rem is a unit of measure) */;
     color: blueviolet;
 }
 
@@ -41,5 +44,5 @@ header img {
 }
 
 footer {
-    font-size: 10px;
+    font-size: 12px;
 }
